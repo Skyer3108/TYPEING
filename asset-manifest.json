@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TYPEING/static/css/main.d91ae376.css",
+    "main.js": "/TYPEING/static/js/main.d3fda153.js",
+    "index.html": "/TYPEING/index.html",
+    "main.d91ae376.css.map": "/TYPEING/static/css/main.d91ae376.css.map",
+    "main.d3fda153.js.map": "/TYPEING/static/js/main.d3fda153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91ae376.css",
+    "static/js/main.d3fda153.js"
+  ]
+}
